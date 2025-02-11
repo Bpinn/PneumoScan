@@ -257,3 +257,9 @@ ul{
             display:none;
         }
     }
+.result{
+    display: none;
+     margin-top: 20px;
+      font-size: 20px; 
+      color: #333;
+}
